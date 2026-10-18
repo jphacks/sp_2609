@@ -7,6 +7,9 @@
 
 🌐 **[Webアプリはこちら](https://shukams.github.io/sp_2609/implementation/)**
 
+**https://youtu.be/yj2QTahh8T4?si=VsI3RSoVBDop6W6f**
+
+
 ---
 
 ## 製品概要
