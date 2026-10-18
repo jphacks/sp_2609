@@ -9,7 +9,7 @@
 
 🌐**[紹介動画はこちら](https://youtu.be/yj2QTahh8T4?si=VsI3RSoVBDop6W6f)**
 
-🌐**[紹介動画はこちら](https://shukams.github.io/sp_2609/pitch/)**
+🌐**[webアプリのデモ版はこちら](https://shukams.github.io/sp_2609/pitch/)**
 ---
 
 ## 製品概要
