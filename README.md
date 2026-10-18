@@ -7,7 +7,7 @@
 
 🌐 **[Webアプリはこちら](https://shukams.github.io/sp_2609/implementation/)**
 
-🌐**[紹介動画はこちら](https://youtu.be/yj2QTahh8T4?si=VsI3RSoVBDop6W6f)**
+[[紹介動画はこちら](https://img.youtube.com/vi/【VIDEO_ID】/hqdefault.jpg)](【https://youtu.be/yj2QTahh8T4?si=VsI3RSoVBDop6W6f】)
 
 🌐**[webアプリのデモ版はこちら](https://shukams.github.io/sp_2609/pitch/)**
 ---
